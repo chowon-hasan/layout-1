@@ -1,0 +1,63 @@
+*{
+ margin:0%;
+ padding: 0;
+}
+header{
+    background-color: rgb(48, 47, 47);
+    font-size: 30px;
+    font-family:Segoe UI;
+    height: 100px;
+    color: rgb(239, 239, 245);
+    text-align: center;
+}
+.banner{
+    background-color: black;
+    text-align: center;
+    font-size: 70px;
+    height: 150px;
+    color: gold;
+}
+.father{
+
+}
+.content{
+    background-color: rgb(182, 3, 3);
+    text-align: center;
+    font-size: 40px;
+    height: 600px;
+    color: rgb(245, 243, 235);
+    width: 33.3%;
+    float: left;
+}
+.article{
+    background-color: rgb(18, 0, 99);
+    text-align: center;
+    font-size: 40px;
+    height: 600px;
+    color: rgb(223, 179, 4);
+    width: 33.3%;
+    float: left;
+}
+.image{
+    background-color: rgb(1, 100, 23);
+    text-align: center;
+    font-size: 40px;
+    height: 600px;
+    color: rgb(7, 6, 5);
+    width: 33.3%;
+    float: left;
+}
+footer{
+    background-color: rgb(212, 4, 4);
+    font-size: 40px;
+    color: oldlace;
+    height: 160%;
+    text-align: center;
+}
+.last{
+    background-color: rgb(250, 249, 249);
+    font-size: 40px;
+    color: rgb(141, 92, 0);
+    height: 100%;
+    text-align: center;
+}
